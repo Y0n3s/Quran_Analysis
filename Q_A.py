@@ -292,3 +292,13 @@ plt.tight_layout()
 plt.show()
 
 # %%
+#Surah Al-Kawthar: One of the shortest chapters in the Quran, consisting of only three verses, emphasizing blessings bestowed upon Prophet Muhammad.
+#Surah Al-Baqarah: Contains the longest verse in the Quran, Ayat al-Kursi (Verse of the Throne), highlighting Allah's greatness.
+#Surah Al-Fatiha: Known as the "Mother of the Quran," recited in every unit of Muslim prayer (Salah), seeking guidance and mercy from Allah.
+#Surah Al-Mulk: Emphasizes accountability in the afterlife and reflection on Allah's creation.
+#Surah Al-Isra: Narrates Prophet Muhammad's miraculous journey from Mecca to Jerusalem and ascension to the heavens.
+#Surah Al-Kahf: Contains four stories imparting moral lessons, including encounters between Prophet Moses and Khidr.
+#Surah Al-Fil: Recounts the destruction of Abraha's army of elephants attempting to attack the Kaaba in Mecca.
+#Surah Al-Masad: Condemns Abu Lahab and his wife for hostility towards Prophet Muhammad, predicting their punishment.
+#Surah Al-Ikhlas: Affirms the oneness of Allah, highly revered and frequently recited for spiritual connection.
+#Surah An-Nas: Seeks refuge in Allah from Satan's evil whispers, emphasizing protection from harm and malevolent influences.
