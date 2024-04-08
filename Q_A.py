@@ -9,7 +9,7 @@ import re
 
 #%%
 # Load Quran dataset
-quran_english = pd.read_csv('Holy_Quran/en.yusufali.csv')
+quran_english = pd.read_csv('en.yusufali.csv')
 
 #%%
 #
