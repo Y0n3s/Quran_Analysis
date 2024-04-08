@@ -14,7 +14,7 @@ quran_english = pd.read_csv('en.yusufali.csv')
 #%%
 #
 quran_english.shape
-
+#The Quran comprises 6,236 verses, divided into 114 chapters known as surahs. Each surah contains a variable number of verses, referred to as ayat.
 #%%
 # Load Surah names
 surah_names = pd.read_csv('surah_names_english.csv', names=['Surah', 'Surah Name'])
@@ -30,6 +30,7 @@ quran_english_with_surah
 quran_english.isna().sum()
 
 #%%
+# Numbers of verses in each chapter.
 quran_english_with_surah["Surah Name"].value_counts()
 
 #%%
@@ -65,6 +66,8 @@ quran_chapters_verses_countplot(quran_english_with_surah[(quran_english_with_sur
 
 # Plotting count plot for verses in chapters 80 - 114
 quran_chapters_verses_countplot(quran_english_with_surah[quran_english_with_surah['Surah'] > 79], 'Surah Name', 'No. of verses in each chapter(surah) 80 - 114')
+
+# Surah Al-Baqarah is the lengthiest Surah : Contains the longest verse in the Quran, Ayat al-Kursi (Verse of the Throne), highlighting Allah's greatness.
 
 #%%
 # Function to generate word cloud
